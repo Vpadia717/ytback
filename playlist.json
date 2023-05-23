@@ -1,0 +1,696 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "oamXVD3RoHEXdzWdXoa91HZ-Gv0",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi4zMDg5MkQ5MEVDMEM1NTg2",
+    "snippet": {
+      "publishedAt": "2018-07-31T02:36:10Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Facebook Coding Interview Question - How Many Ways to Decode This Message?",
+      "description": "Facebook coding interview question and answer - how many ways to decode this message?\n\nFor daily coding problems like this one, I’d recommend this website called Daily Coding Problem. You can find it here: https://csdojo.io/daily\n(That’s a referral link, and you can get a 10% discount through that link. Their free option and blog articles are good, too, though.)\n\nAlso, find me on Instagram: https://www.instagram.com/ykdojo/\nAnd Twitter: https://twitter.com/ykdojo\nAnd Facebook: https://www.facebook.com/entercsdojo",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qli-JCrSwuk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qli-JCrSwuk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qli-JCrSwuk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qli-JCrSwuk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qli-JCrSwuk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qli-JCrSwuk"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "qli-JCrSwuk",
+      "videoPublishedAt": "2018-07-14T05:19:41Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "-qXk7w3G45CJyHGIYg8oCxgA6PM",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi45ODRDNTg0QjA4NkFBNkQy",
+    "snippet": {
+      "publishedAt": "2018-06-10T17:45:30Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Amazon Coding Interview Question - Recursive Staircase Problem",
+      "description": "Amazon coding interview question and answer - recursive staircase problem!\n\nFor daily coding problems like this one, I’d recommend this website called Daily Coding Problem. You can find it here: https://csdojo.io/daily\n(That’s a referral link, and you can get a 10% discount through that link. Their free option and blog articles are good, too, though.)\n\nOutline (check my comment for the clickable outline):\n0:07: Problem description\n1:14: A variation of the problem\n2:15: Thinking about simple cases\n4:18: Finding a pattern\n5:24: Relabeling the steps\n6:41: Revisiting the pattern with the new labels\n7:53: The pattern we’ve found - recap.\n8:11: The recursive relationship we’ve found\n8:50: What about when N = 0?\n9:40: Writing a naive recursive solution\n10:39: Why this solution is not efficient\n11:24: How to fix it with dynamic programming (bottom-up)\n12:27: The bottom-up solution in code\n13:34: How to make it more efficient in terms of space\n14:19: Solution to the variation of the problem\n14:49: The recursive relationship for this problem (the variation)\n15:08: A naive, INCORRECT recursive solution to this problem\n15:50: A naive, CORRECT recursive solution to this problem\n16:17: A naive, correct recursive solution in code\n17:11: A dynamic programming / bottom-up approach\n19:17: How to get daily coding problems like this one (go to https://csdojo.io/daily)\n\nAlso, keep in touch on Facebook: https://www.facebook.com/entercsdojo",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5o-kdjv7FD0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5o-kdjv7FD0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5o-kdjv7FD0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5o-kdjv7FD0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5o-kdjv7FD0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5o-kdjv7FD0"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "5o-kdjv7FD0",
+      "videoPublishedAt": "2018-05-26T01:23:27Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Jgan6xoZX-YR9amq8sx6J_4USwQ",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi41MzJCQjBCNDIyRkJDN0VD",
+    "snippet": {
+      "publishedAt": "2017-09-13T20:59:45Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Problem Solving Technique #1 for Coding Interviews with Google, Amazon, Microsoft, Facebook, etc.",
+      "description": "This is one of the 3 problem solving techniques I personally used to get through coding interviews with companies such as Google.\n\nTo get the 2 other techniques, check out my Udemy course, \"11 Essential Coding Interview Questions\":\nhttps://www.udemy.com/11-essential-coding-interview-questions/?couponCode=SOLVE2",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lD-LuK_VGZI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lD-LuK_VGZI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lD-LuK_VGZI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lD-LuK_VGZI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lD-LuK_VGZI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lD-LuK_VGZI"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "lD-LuK_VGZI",
+      "videoPublishedAt": "2017-09-13T20:59:44Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "KnzHv1J_5N5PkVxfigei984Bs4I",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2017-10-12T19:29:47Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "How to Crack a Google Coding Interview - An Ex-Googler’s Guide",
+      "description": "This is the process I would personally use to get through coding interviews with Google, or with any other company for that matter.\n\nIf you liked this video, I would also recommend my Udemy course, \"11 Essential Coding Interview Questions\":\nhttps://www.udemy.com/11-essential-coding-interview-questions/?couponCode=HOWTOCRACK\n\n(You'll get a discount through the link above.)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uQdy914JRKQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uQdy914JRKQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uQdy914JRKQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uQdy914JRKQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uQdy914JRKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uQdy914JRKQ"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "uQdy914JRKQ",
+      "videoPublishedAt": "2017-10-12T19:29:46Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "FsE_YBErDr01IsTGj_UgIszGopY",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2017-10-28T23:25:58Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Amazon Coding Interview Question - K Closest Points to the Origin",
+      "description": "Amazon coding interview question and answer.\n\nIf you liked this video, I would also recommend my Udemy course, \"11 Essential Coding Interview Questions\":\nhttps://www.udemy.com/11-essential-coding-interview-questions/?couponCode=AMAZON2\n\n(You'll get a discount through the link above.)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eaYX0Ee0Kcg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eaYX0Ee0Kcg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eaYX0Ee0Kcg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eaYX0Ee0Kcg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eaYX0Ee0Kcg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eaYX0Ee0Kcg"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "eaYX0Ee0Kcg",
+      "videoPublishedAt": "2017-10-19T21:14:28Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "kvqwbdnQwWdsYqOSDJKKPKAXtPU",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2017-10-02T20:46:02Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Google Coding Interview Question and Answer #1: First Recurring Character",
+      "description": "Find the first recurring character in the given string!\n\nA variation of this problem: find the first NON-recurring character. This variation problem and many others are covered in my Udemy course, 11 Essential Coding Interview Questions: https://www.udemy.com/11-essential-coding-interview-questions/?couponCode=GOOGLE1\n\n(You'll get a discount through the above link.)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GJdiM-muYqc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GJdiM-muYqc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GJdiM-muYqc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GJdiM-muYqc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GJdiM-muYqc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GJdiM-muYqc"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "GJdiM-muYqc",
+      "videoPublishedAt": "2017-09-19T05:17:47Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "WVal5iw7qGavxd3PC6VaKfraOGg",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi41MjE1MkI0OTQ2QzJGNzNG",
+    "snippet": {
+      "publishedAt": "2017-04-30T21:59:58Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Amazon Coding Interview: Count Negative Integers in Row/Column-Wise Sorted Matrix",
+      "description": "REMINDER: Each row and each column are already SORTED in the given matrix!\n\nWant more problems like this? Check out my Udemy course, 11 Essential Coding Interview Questions: https://www.udemy.com/11-essential-coding-interview-questions/?couponCode=AMAZON",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5dJSZLmDsxk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5dJSZLmDsxk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5dJSZLmDsxk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5dJSZLmDsxk"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "5dJSZLmDsxk",
+      "videoPublishedAt": "2016-03-17T21:18:50Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "TKz0NVIIkPFUZMfiMMfz1NmxaAo",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi45NDk1REZENzhEMzU5MDQz",
+    "snippet": {
+      "publishedAt": "2017-10-02T20:59:24Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Facebook Coding Interview Question and Answer #1: All Subsets of a Set",
+      "description": "Find and print all subsets of a given set! (Given as an array.)\n\nIs there any other interview question you'd like me to cover in the future? You can (anonymously) let me know at: www.csdojo.io/contribute",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bGC2fNALbNU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bGC2fNALbNU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bGC2fNALbNU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bGC2fNALbNU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bGC2fNALbNU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bGC2fNALbNU"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "bGC2fNALbNU",
+      "videoPublishedAt": "2017-10-02T20:59:23Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "xl2yNE57quBMbqwAGGVW-cwM-hA",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi4wMTcyMDhGQUE4NTIzM0Y5",
+    "snippet": {
+      "publishedAt": "2017-04-30T21:59:58Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Microsoft Coding Interview Question and Answer: Lowest Common Ancestor",
+      "description": "*Just getting started with coding interviews?  Check out my \"Get Ready for Your Coding Interview\" course on Lynda.com:\nhttps://www.lynda.com/Software-Development-tutorials/How-Ace-Developer-Interview/576698-2.html?lpk35=9181&utm_medium=ldc-partner&utm_source=CMPRC&utm_content=524&utm_campaign=CD20605&bid=524&aid=CD20605\n(You'll get a 30-day trial with the link)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GnliEfQo114/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GnliEfQo114/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GnliEfQo114/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GnliEfQo114/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GnliEfQo114"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "GnliEfQo114",
+      "videoPublishedAt": "2016-10-23T19:56:00Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "iEFolQ779M3n7i8S7xU8daq0vWA",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi4wOTA3OTZBNzVEMTUzOTMy",
+    "snippet": {
+      "publishedAt": "2017-04-30T21:59:58Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "4 Hacks for Finding the Optimal Answer in Coding Interview QUICKLY!",
+      "description": "*Just getting started with coding interviews?  Check out my \"Get Ready for Your Coding Interview\" course on Lynda.com:\nhttps://www.lynda.com/Software-Development-tutorials/How-Ace-Developer-Interview/576698-2.html?lpk35=9181&utm_medium=ldc-partner&utm_source=CMPRC&utm_content=524&utm_campaign=CD20605&bid=524&aid=CD20605\n(You'll get a 30-day trial with the link)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pnzZzbQ3ZAY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pnzZzbQ3ZAY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pnzZzbQ3ZAY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pnzZzbQ3ZAY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "pnzZzbQ3ZAY"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "pnzZzbQ3ZAY",
+      "videoPublishedAt": "2016-03-05T08:08:34Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "VbhnbdYr2FGpFzF4gvtFtX_Y5wM",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi41NkI0NEY2RDEwNTU3Q0M2",
+    "snippet": {
+      "publishedAt": "2017-04-30T21:59:58Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Coding Interview: Can You RANDOMLY Reorder Array in O(N)?",
+      "description": "Coding Interview Question and Answer.  Random permutation of an array will only take O(n) in time with Fisher-Yates shuffle or Knuth shuffle.\n*Just getting started with coding interviews?  Check out my \"Get Ready for Your Coding Interview\" course on Lynda.com:\nhttps://www.lynda.com/Software-Development-tutorials/How-Ace-Developer-Interview/576698-2.html?lpk35=9181&utm_medium=ldc-partner&utm_source=CMPRC&utm_content=524&utm_campaign=CD20605&bid=524&aid=CD20605\n(You'll get a 30-day trial with the link)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CoI4S7z1E1Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CoI4S7z1E1Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CoI4S7z1E1Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CoI4S7z1E1Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CoI4S7z1E1Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CoI4S7z1E1Y"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "CoI4S7z1E1Y",
+      "videoPublishedAt": "2017-04-01T00:19:37Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "4EL6U_0t6r4SrFiG51vifYFyqc4",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi4yODlGNEE0NkRGMEEzMEQy",
+    "snippet": {
+      "publishedAt": "2017-04-30T21:59:58Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Coding Interview Question and Answer: Longest Consecutive Characters",
+      "description": "Given a string, find the longest subsequence consisting of a single character.  Example: longest(\"ABAACDDDBBA\") should return {'D': 3}.\n\n*Just getting started with coding interviews?  Check out my \"Get Ready for Your Coding Interview\" course on Lynda.com:\nhttps://www.lynda.com/Software-Development-tutorials/How-Ace-Developer-Interview/576698-2.html?lpk35=9181&utm_medium=ldc-partner&utm_source=CMPRC&utm_content=524&utm_campaign=CD20605&bid=524&aid=CD20605\n(You'll get a 30-day trial with the link)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qRNB8CV3_LU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qRNB8CV3_LU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qRNB8CV3_LU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qRNB8CV3_LU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qRNB8CV3_LU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qRNB8CV3_LU"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "qRNB8CV3_LU",
+      "videoPublishedAt": "2017-03-28T06:04:04Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "8YBaFrFCkQna8--bjIuULQqHBhE",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi4xMkVGQjNCMUM1N0RFNEUx",
+    "snippet": {
+      "publishedAt": "2017-05-03T20:15:28Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Coding Interview Question: Tower Hopper Problem",
+      "description": "Coding Interview Question and Answer: Tower Hopper Problem.\nThis is a typical Amazon/Microsoft/Google-type coding interview problem.\n\n*Just getting started with coding interviews?  Check out my \"Get Ready for Your Coding Interview\" course on Lynda.com:\nhttps://www.lynda.com/Software-Development-tutorials/How-Ace-Developer-Interview/576698-2.html?lpk35=9181&utm_medium=ldc-partner&utm_source=CMPRC&utm_content=524&utm_campaign=CD20605&bid=524&aid=CD20605\n(You'll get a 30-day trial with the link)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kHWy5nEfRIQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kHWy5nEfRIQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kHWy5nEfRIQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kHWy5nEfRIQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kHWy5nEfRIQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kHWy5nEfRIQ"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "kHWy5nEfRIQ",
+      "videoPublishedAt": "2017-05-03T20:15:27Z"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "5EPsM3_d_ppVA85uAcv31DD2Jk0",
+    "id": "UExCWkJKYkVfckdSVm5waXRkdnBkWTk5NTJJc0tNRHVldi5EMEEwRUY5M0RDRTU3NDJC",
+    "snippet": {
+      "publishedAt": "2018-01-05T20:01:10Z",
+      "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "title": "Dynamic Programming Interview Question #1 - Find Sets Of Numbers That Add Up To 16",
+      "description": "My Udemy course, 11 Essential Coding Interview Questions: https://www.udemy.com/11-essential-coding-interview-questions/?couponCode=DPQUESTION1\n\nMy dynamic programming intro video: https://youtu.be/vYquumk4nWw\n\nNOTE: There's an outline of this video in the comment section below!\n\n\nKeep in touch on Facebook: https://www.facebook.com/entercsdojo\nSupport me on Patreon: https://www.patreon.com/csdojo",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nqlNzOcnCfs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nqlNzOcnCfs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nqlNzOcnCfs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nqlNzOcnCfs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nqlNzOcnCfs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CS Dojo",
+      "playlistId": "PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "nqlNzOcnCfs"
+      },
+      "videoOwnerChannelTitle": "CS Dojo",
+      "videoOwnerChannelId": "UCxX9wt5FWQUAAz4UrysqK9A"
+    },
+    "contentDetails": {
+      "videoId": "nqlNzOcnCfs",
+      "videoPublishedAt": "2018-01-05T20:01:02Z"
+    }
+  }
+]
