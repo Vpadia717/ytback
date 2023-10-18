@@ -1,5 +1,5 @@
-# Tech Tv Backend
-Tech Tv is a video streaming service that allows users to watch and manage their favorite videos. The backend of Tech Tv is responsible for managing users, channels, and videos. It also allows admins to manage the content that is available to users.
+# DevTube Backend
+DevTube is a video streaming service that allows users to watch and manage their favorite videos. The backend of DevTube is responsible for managing users, channels, and videos. It also allows admins to manage the content that is available to users.
 
 ## Features
 1. User management: The backend allows admins to create, update, and delete users. It also allows admins to manage user permissions.
@@ -14,7 +14,7 @@ Tech Tv is a video streaming service that allows users to watch and manage their
 ## Installation
 Clone the repository
 ```md
-https://github.com/Gateway-Digital/YoutubeEdu-Backend.git
+https://github.com/Vpadia717/ytback.git
 ```
 Install the dependencies
 ```javascript
@@ -26,7 +26,7 @@ npm start
 ```
 
 ## Usage
-The Tech Tv backend can be used by admins and users.
+The DevTube backend can be used by admins and users.
 
 * Admins can:
   * Create users
@@ -48,3 +48,6 @@ The Tech Tv backend can be used by admins and users.
   * View their history of watched videos
   * Suggest channels and categories
   * View their channel's videos and playlists
+```
+
+Remember to replace instances of "ytback" with "DevTube" throughout your project where appropriate. If you have specific sections you want me to modify or if you need further customization, let me know!
