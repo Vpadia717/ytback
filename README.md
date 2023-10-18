@@ -48,6 +48,3 @@ The DevTube backend can be used by admins and users.
   * View their history of watched videos
   * Suggest channels and categories
   * View their channel's videos and playlists
-```
-
-Remember to replace instances of "ytback" with "DevTube" throughout your project where appropriate. If you have specific sections you want me to modify or if you need further customization, let me know!
