@@ -1,1142 +1,3042 @@
 [
   {
     "kind": "youtube#searchResult",
-    "etag": "ubnZXM63biy3oG_ijtutU98gkGw",
-    "id": { "kind": "youtube#video", "videoId": "s_8b5iq4Rvk" },
+    "etag": "YdRY3r0KYPn1yp8WwTf8rgFYxq0",
+    "id": { "kind": "youtube#video", "videoId": "8xqMWXn3gDk" },
     "snippet": {
-      "publishedAt": "2023-05-14T11:47:59Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "J.A.R.V.I.S - OpenAI + Python  Powered AI Desktop Assistant that Talks Like a Human (FROM SCRATCH!)",
-      "description": "Download JetBrains PyCharm- https://jb.gg/DownloadPyCharm Free JetBrains Student Licenses ...",
+      "publishedAt": "2023-10-25T14:49:59Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "DALL-E 3 Is Now Free For Everyone!",
+      "description": "Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers DALL-E 3 in Bing image creator: ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/s_8b5iq4Rvk/default.jpg",
+          "url": "https://i.ytimg.com/vi/8xqMWXn3gDk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/s_8b5iq4Rvk/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8xqMWXn3gDk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/s_8b5iq4Rvk/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8xqMWXn3gDk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "CodeWithHarry",
+      "channelTitle": "Two Minute Papers",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-05-14T11:47:59Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-25T14:49:59Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "27031",
-      "likeCount": "1996",
+      "viewCount": "62502",
+      "likeCount": "3603",
       "favoriteCount": "0",
-      "commentCount": "226"
+      "commentCount": "435"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ZtQ76rKSFWRCnDcDeC1e_od5C9s",
-    "id": { "kind": "youtube#video", "videoId": "ZZrxOvsNY2I" },
+    "etag": "rVl03oSk7DoeAepHMJP_ujwgAz4",
+    "id": { "kind": "youtube#video", "videoId": "gqtmUHhaplo" },
     "snippet": {
-      "publishedAt": "2023-05-13T03:30:08Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "Top 10 MCA Colleges in India",
-      "description": "Download Slides from here(Free)❤️ : https://www.apnacollege.in/college-reviews Alpha 4.0 Placement Batch (Java+DSA) ...",
+      "publishedAt": "2023-10-24T20:01:59Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "OpenAssistant is Completed",
+      "description": "OpenAssistant LAION's OpenEmpathic: https://laion.ai/blog/open-empathic/ Links: Homepage: https://ykilcher.com Merch: ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ZZrxOvsNY2I/default.jpg",
+          "url": "https://i.ytimg.com/vi/gqtmUHhaplo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ZZrxOvsNY2I/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gqtmUHhaplo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ZZrxOvsNY2I/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gqtmUHhaplo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Apna College",
+      "channelTitle": "Yannic Kilcher",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-05-13T03:30:08Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-24T20:01:59Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "34687",
-      "likeCount": "1846",
+      "viewCount": "17244",
+      "likeCount": "1330",
       "favoriteCount": "0",
-      "commentCount": "431"
+      "commentCount": "181"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "HKs8RpFqHswUvkQKQgJ8CzYBAo4",
-    "id": { "kind": "youtube#video", "videoId": "4tAp9Lu0eDI" },
+    "etag": "5W1W01zEbYrYhsuPIF9zGhWjoHY",
+    "id": { "kind": "youtube#video", "videoId": "PkPAtfNNJX8" },
     "snippet": {
-      "publishedAt": "2023-05-12T11:30:01Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "Web Scraping Tutorial Using Python | BeautifulSoup Tutorial 🔥",
-      "description": "Use promo code CWH25 and get your 25% discount on Oxylabs proxies: ...",
+      "publishedAt": "2023-10-24T19:43:52Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "fl_chart (Package of the Week)",
+      "description": "Use fl_chart for visualizing information in a number of common graphs, including line, bar, and pie charts. fl_chart on pub.dev ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4tAp9Lu0eDI/default.jpg",
+          "url": "https://i.ytimg.com/vi/PkPAtfNNJX8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4tAp9Lu0eDI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PkPAtfNNJX8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4tAp9Lu0eDI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PkPAtfNNJX8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "CodeWithHarry",
+      "channelTitle": "Flutter",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-05-12T11:30:01Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-24T19:43:52Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "14188",
-      "likeCount": "616",
+      "viewCount": "22224",
+      "likeCount": "1146",
       "favoriteCount": "0",
-      "commentCount": "186"
+      "commentCount": "51"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Xgtxqo3paJLE7LqhnZ8cwwf7K4U",
-    "id": { "kind": "youtube#video", "videoId": "TdDhFGQXxkY" },
+    "etag": "RpfZKQ0lb0CUrFH6IpV_UH1wwB8",
+    "id": { "kind": "youtube#video", "videoId": "a7enCA9ItzE" },
     "snippet": {
-      "publishedAt": "2023-05-11T15:31:17Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "How to become a UI UX Designer?",
-      "description": "shorts Alpha 4.0 Placement Batch (Java+DSA) : https://www.apnacollege.in/course/alpha-batch-4 ...",
+      "publishedAt": "2023-10-23T07:02:36Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "Build a Snake Clone with Pygame #8 - Final Touches",
+      "description": "In this Pygame / Python tutorial, you'll learn how to create a replica of the classic Snake game from scratch. Get early ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/TdDhFGQXxkY/default.jpg",
+          "url": "https://i.ytimg.com/vi/a7enCA9ItzE/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/TdDhFGQXxkY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/a7enCA9ItzE/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/TdDhFGQXxkY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/a7enCA9ItzE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Apna College",
+      "channelTitle": "Net Ninja",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-05-11T15:31:17Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-23T07:02:36Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "114411",
-      "likeCount": "14951",
+      "viewCount": "1720",
+      "likeCount": "34",
       "favoriteCount": "0",
-      "commentCount": "105"
+      "commentCount": "3"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Ss9jGuUQi5BMvf_R5iYmHnZ1Ri0",
-    "id": { "kind": "youtube#video", "videoId": "J6mDkcqU_ZE" },
+    "etag": "6FK1QXl7LLRiDCAergRJTkyvPFw",
+    "id": { "kind": "youtube#video", "videoId": "hVKLouJhlcw" },
     "snippet": {
-      "publishedAt": "2023-05-10T11:30:13Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "MongoDB Tutorial in 1 Hour (2023) 🍃",
-      "description": "Register for Atlas: https://www.mongodb.com/cloud/atlas/register?utm_campaign=cwh Learn MongoDB: ...",
+      "publishedAt": "2023-10-22T15:47:13Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "NVIDIA’s New AI: 20% Faster Game Graphics!",
+      "description": "Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper \"Flexible Isosurface ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/J6mDkcqU_ZE/default.jpg",
+          "url": "https://i.ytimg.com/vi/hVKLouJhlcw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/J6mDkcqU_ZE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hVKLouJhlcw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/J6mDkcqU_ZE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hVKLouJhlcw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "CodeWithHarry",
+      "channelTitle": "Two Minute Papers",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-05-10T11:30:13Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-22T15:47:13Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "28191",
-      "likeCount": "1478",
+      "viewCount": "69975",
+      "likeCount": "3266",
       "favoriteCount": "0",
-      "commentCount": "270"
+      "commentCount": "156"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ep-OXFvPGkvluhwSc1dW2T_B2Rg",
-    "id": { "kind": "youtube#video", "videoId": "wLk2xRzhbjk" },
+    "etag": "YtCRrr4lciPzyiKDC1sQ_wnCaaY",
+    "id": { "kind": "youtube#video", "videoId": "PqPMLG-5Jrw" },
     "snippet": {
-      "publishedAt": "2023-05-09T16:54:22Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "ChatGPT Tutorial - for all College students &amp; Coders",
-      "description": "Alpha 4.0 Placement Batch (Java+DSA) : https://www.apnacollege.in/course/alpha-batch-4 ...",
+      "publishedAt": "2023-10-20T13:22:52Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "Build a Snake Clone with Pygame #7 - Snake Graphics",
+      "description": "In this Pygame / Python tutorial, you'll learn how to create a replica of the classic Snake game from scratch. Get early ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wLk2xRzhbjk/default.jpg",
+          "url": "https://i.ytimg.com/vi/PqPMLG-5Jrw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wLk2xRzhbjk/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PqPMLG-5Jrw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wLk2xRzhbjk/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PqPMLG-5Jrw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Apna College",
+      "channelTitle": "Net Ninja",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-05-09T16:54:22Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-20T13:22:52Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "204097",
-      "likeCount": "9385",
+      "viewCount": "1426",
+      "likeCount": "34",
       "favoriteCount": "0",
-      "commentCount": "350"
+      "commentCount": "4"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "NxD-MUWrpmS-iHc0B9Cc7LGbJ_Y",
-    "id": { "kind": "youtube#video", "videoId": "0U9-KUx0SD8" },
+    "etag": "X7kv8M4MOYav292eZKQGoQsW71s",
+    "id": { "kind": "youtube#video", "videoId": "mp5N0ENPuOw" },
     "snippet": {
-      "publishedAt": "2023-05-09T11:30:00Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "I Created this website using Pure Python | Anvil Tutorial 🔥",
-      "description": "Try Anvil: https://anvil.works/codewithharry This video is sponsored by anvil. I hope you will love the ease you can build pure ...",
+      "publishedAt": "2023-10-20T05:50:48Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "Observable Flutter: Bonfire",
+      "description": "Watch as Craig Labenz is joined by Flutter YouTuber, Trey Hope, to see how the Bonfire package makes it even easier to build ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/0U9-KUx0SD8/default.jpg",
+          "url": "https://i.ytimg.com/vi/mp5N0ENPuOw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/0U9-KUx0SD8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mp5N0ENPuOw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/0U9-KUx0SD8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mp5N0ENPuOw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "CodeWithHarry",
+      "channelTitle": "Flutter",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-05-09T11:30:00Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-20T05:50:48Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "46070",
-      "likeCount": "2114",
+      "viewCount": "9021",
+      "likeCount": "173",
       "favoriteCount": "0",
-      "commentCount": "233"
+      "commentCount": "5"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "3kHhjmjz0CIUE-DQisiy4NBWNUc",
-    "id": { "kind": "youtube#video", "videoId": "wBpNiAtFVHU" },
+    "etag": "UL8XgNulBRhcwzt-IjX9eo7BcB4",
+    "id": { "kind": "youtube#video", "videoId": "bD_HyxHMHPo" },
     "snippet": {
-      "publishedAt": "2023-05-07T17:00:34Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "AI For UpScaling Videos 🔥",
-      "description": "Video2x: https://github.com/k4yt3x/video2x ▻Checkout my English channel here: ...",
+      "publishedAt": "2023-10-19T14:42:29Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "Google’s AI: This Should Be Impossible!",
+      "description": "Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper \"RealFill - Reference-Driven ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wBpNiAtFVHU/default.jpg",
+          "url": "https://i.ytimg.com/vi/bD_HyxHMHPo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wBpNiAtFVHU/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/bD_HyxHMHPo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wBpNiAtFVHU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/bD_HyxHMHPo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "CodeWithHarry",
+      "channelTitle": "Two Minute Papers",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-05-07T17:00:34Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-19T14:42:29Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "43096",
-      "likeCount": "4422",
-      "favoriteCount": "0",
-      "commentCount": "74"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "aVZo4IQ9DmPGSKFlpID-ovgSZvE",
-    "id": { "kind": "youtube#video", "videoId": "cSiWWNs85_w" },
-    "snippet": {
-      "publishedAt": "2023-05-06T17:14:56Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "How to be a Frontend Developer?",
-      "description": "shorts Alpha 4.0 Placement Batch (Java+DSA) : https://www.apnacollege.in/course/alpha-batch-4 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cSiWWNs85_w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cSiWWNs85_w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cSiWWNs85_w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Apna College",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-05-06T17:14:56Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "141142",
-      "likeCount": "15623",
-      "favoriteCount": "0",
-      "commentCount": "132"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "GgIphz1fQeIX4KsaautpHC4Twc8",
-    "id": { "kind": "youtube#video", "videoId": "iEyA1dXZs_M" },
-    "snippet": {
-      "publishedAt": "2023-05-05T17:25:12Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "How to be a backend Developer?",
-      "description": "shorts Alpha 4.0 Placement Batch (Java+DSA) : https://www.apnacollege.in/course/alpha-batch-4 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/iEyA1dXZs_M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/iEyA1dXZs_M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/iEyA1dXZs_M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Apna College",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-05-05T17:25:12Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "184376",
-      "likeCount": "21643",
-      "favoriteCount": "0",
-      "commentCount": "108"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "_UUHE8uCGwNME8wQRuNKKxvA74Y",
-    "id": { "kind": "youtube#video", "videoId": "zPVkWwBario" },
-    "snippet": {
-      "publishedAt": "2023-05-05T11:30:19Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "Lets Build a Todos List App using Next.js 13 🔥",
-      "description": "Code: https://github.com/CodeWithHarry/nextjs-todolist-youtube 00:00:00 Introduction 00:00:16 Sponsor Message 00:03:47 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zPVkWwBario/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zPVkWwBario/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zPVkWwBario/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CodeWithHarry",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-05-05T11:30:19Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "21801",
-      "likeCount": "904",
-      "favoriteCount": "0",
-      "commentCount": "153"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "DI4WgcBY_4oxoPNHUDj5ih9jiQg",
-    "id": { "kind": "youtube#video", "videoId": "zVqEBM36wEY" },
-    "snippet": {
-      "publishedAt": "2023-05-04T17:14:29Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "Tutorial Hell in Programming",
-      "description": "shorts Alpha 4.0 Placement Batch (Java+DSA) : https://www.apnacollege.in/course/alpha-batch-4 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zVqEBM36wEY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zVqEBM36wEY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zVqEBM36wEY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Apna College",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-05-04T17:14:29Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "180864",
-      "likeCount": "25501",
-      "favoriteCount": "0",
-      "commentCount": "90"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "7w_lQXT_7Wga5d3rNo3rBtWkQq4",
-    "id": { "kind": "youtube#video", "videoId": "qPB_YagNNp4" },
-    "snippet": {
-      "publishedAt": "2023-05-04T11:30:30Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "Google Says AI is Scary 💻",
-      "description": "Checkout my English channel here: https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ ▻Instagram: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qPB_YagNNp4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qPB_YagNNp4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qPB_YagNNp4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CodeWithHarry",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-05-04T11:30:30Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "214174",
-      "likeCount": "17913",
-      "favoriteCount": "0",
-      "commentCount": "202"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "-u7enPnMLPx2M9pM7mYuRmBep4E",
-    "id": { "kind": "youtube#video", "videoId": "hne5rygG_Tw" },
-    "snippet": {
-      "publishedAt": "2023-05-03T14:27:05Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "Government Internship Scheme for College Students",
-      "description": "shorts Alpha 4.0 Placement Batch (Java+DSA) : https://www.apnacollege.in/course/alpha-batch-4 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hne5rygG_Tw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hne5rygG_Tw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hne5rygG_Tw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Apna College",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-05-03T14:27:05Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "151288",
-      "likeCount": "24610",
-      "favoriteCount": "0",
-      "commentCount": "134"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "KCggf1T_q5G47miZvzVrfabDjpU",
-    "id": { "kind": "youtube#video", "videoId": "AmUe-bC4Xws" },
-    "snippet": {
-      "publishedAt": "2023-05-02T17:47:35Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "All about IISc College | Indian Institute of Science - Better than IITs?",
-      "description": "FREE PDF having all details of this College : https://www.apnacollege.in/college-reviews Alpha 4.0 Placement Batch ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/AmUe-bC4Xws/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/AmUe-bC4Xws/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/AmUe-bC4Xws/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Apna College",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-05-02T17:47:35Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "91375",
-      "likeCount": "2932",
-      "favoriteCount": "0",
-      "commentCount": "404"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "AfiF8elQco9cNMiBVODXFpbrBIY",
-    "id": { "kind": "youtube#video", "videoId": "9TLq7RopShY" },
-    "snippet": {
-      "publishedAt": "2023-05-02T14:14:49Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "Get your Laptop Battery Report 💻",
-      "description": "Checkout my English channel here: https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ ▻Instagram: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9TLq7RopShY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9TLq7RopShY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9TLq7RopShY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CodeWithHarry",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-05-02T14:14:49Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "72656",
-      "likeCount": "9203",
-      "favoriteCount": "0",
-      "commentCount": "87"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "biUfa-Q67VeAFii5aQqSlTHNwN4",
-    "id": { "kind": "youtube#video", "videoId": "i0kiF_w8_yU" },
-    "snippet": {
-      "publishedAt": "2023-05-01T06:27:31Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "Windows PowerShell/Terminal Autocomplete",
-      "description": "Checkout my English channel here: https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ ▻Instagram: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/i0kiF_w8_yU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/i0kiF_w8_yU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/i0kiF_w8_yU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CodeWithHarry",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-05-01T06:27:31Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "34887",
-      "likeCount": "3473",
-      "favoriteCount": "0",
-      "commentCount": "96"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "JDh1qXoWZomXpemx0_bmhUj3uUg",
-    "id": { "kind": "youtube#video", "videoId": "560nkgf-o6I" },
-    "snippet": {
-      "publishedAt": "2023-04-30T14:30:38Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "Skills all College Freshers should Build in 2023",
-      "description": "shorts Alpha 4.0 Placement Batch (Java+DSA) : https://www.apnacollege.in/course/alpha-batch-4 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/560nkgf-o6I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/560nkgf-o6I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/560nkgf-o6I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Apna College",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-04-30T14:30:38Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "312248",
-      "likeCount": "48799",
-      "favoriteCount": "0",
-      "commentCount": "172"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "dmspJwB6Tp8CeaAO7fkBhGgJxGk",
-    "id": { "kind": "youtube#video", "videoId": "EBnYvPMSWec" },
-    "snippet": {
-      "publishedAt": "2023-04-28T16:53:54Z",
-      "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-      "title": "3 Websites for College Students",
-      "description": "shorts Alpha 4.0 Placement Batch (Java+DSA) : https://www.apnacollege.in/course/alpha-batch-4 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EBnYvPMSWec/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EBnYvPMSWec/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EBnYvPMSWec/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Apna College",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-04-28T16:53:54Z",
-      "channelImage": "https://yt3.ggpht.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "229616",
-      "likeCount": "40752",
-      "favoriteCount": "0",
-      "commentCount": "82"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "2SUjr2C0Tsxno1BdJEziljLUpbQ",
-    "id": { "kind": "youtube#video", "videoId": "xxkDLvS5MTY" },
-    "snippet": {
-      "publishedAt": "2023-04-26T12:18:01Z",
-      "channelId": "UCeVMnSShP_Iviwkknt83cww",
-      "title": "How to use TailwindCSS with Python Flask?",
-      "description": "Lets talk about using tailwindcss with flask in this video! ▻Checkout my English channel here: ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xxkDLvS5MTY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xxkDLvS5MTY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xxkDLvS5MTY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "CodeWithHarry",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-04-26T12:18:01Z",
-      "channelImage": "https://yt3.ggpht.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "13746",
-      "likeCount": "520",
-      "favoriteCount": "0",
-      "commentCount": "141"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "1bPto4asIZdHD_H-O_YdfJBw9l0",
-    "id": { "kind": "youtube#video", "videoId": "SqcY0GlETPk" },
-    "snippet": {
-      "publishedAt": "2023-03-12T08:00:07Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "React Tutorial for Beginners",
-      "description": "React JS Tutorial for Beginners - Learn React 18 with TypeScript and build awesome frontend app! - Want to learn more? Get my ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SqcY0GlETPk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SqcY0GlETPk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Programming with Mosh",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-03-12T08:00:07Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "397063",
-      "likeCount": "9792",
-      "favoriteCount": "0",
-      "commentCount": "567"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "CApLH_aTigkbOcYwVbtBfYk9jWI",
-    "id": { "kind": "youtube#video", "videoId": "hZB5bHDCmeY" },
-    "snippet": {
-      "publishedAt": "2023-03-09T08:00:10Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "A New React Course is on the Way!",
-      "description": "You asked for it, and I'm delivering - a brand new React course coming within the next few days! Master React with TypeScript, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hZB5bHDCmeY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hZB5bHDCmeY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hZB5bHDCmeY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "Programming with Mosh",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-03-09T08:00:10Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
-    },
-    "statistics": {
-      "viewCount": "38439",
-      "likeCount": "1948",
+      "viewCount": "186161",
+      "likeCount": "8307",
       "favoriteCount": "0",
       "commentCount": "417"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "NvUCvpgBV8ceiU9snCPbcmarzwo",
-    "id": { "kind": "youtube#video", "videoId": "sTeoEFzVNSc" },
+    "etag": "LiCKORnWKDFE8JQt6jYiVH2Fq_4",
+    "id": { "kind": "youtube#video", "videoId": "409tNlaByds" },
     "snippet": {
-      "publishedAt": "2023-01-13T17:00:09Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity",
-      "description": "Learn how to use ChatGPT to 10x your productivity! 38 examples using Python, JavaScript, HTML, CSS, React, SQL and more!",
+      "publishedAt": "2023-10-14T21:43:50Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "Efficient Streaming Language Models with Attention Sinks (Paper Explained)",
+      "description": "llm #ai #chatgpt How does one run inference for a generative autoregressive language model that has been trained with a fixed ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/sTeoEFzVNSc/default.jpg",
+          "url": "https://i.ytimg.com/vi/409tNlaByds/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/sTeoEFzVNSc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/409tNlaByds/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/sTeoEFzVNSc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/409tNlaByds/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Programming with Mosh",
+      "channelTitle": "Yannic Kilcher",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-01-13T17:00:09Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-14T21:43:50Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "3243938",
-      "likeCount": "49268",
+      "viewCount": "28642",
+      "likeCount": "822",
       "favoriteCount": "0",
-      "commentCount": "1715"
+      "commentCount": "97"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "9m4kINS9t3YU2zOtKaXPtwzDTL4",
-    "id": { "kind": "youtube#video", "videoId": "uN6JO-5GW8w" },
+    "etag": "rUHWMaUmc3huvzogU2LJqpxmZOY",
+    "id": { "kind": "youtube#video", "videoId": "obPjNYm3xIA" },
     "snippet": {
-      "publishedAt": "2022-12-20T08:12:53Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "Mosh&#39;s Xmas gift to you!",
-      "description": "The Dance with Mosh holiday extravaganza is right around the corner. See what's coming! Subscribe now to access 40+ courses ...",
+      "publishedAt": "2023-10-11T14:52:35Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "Unreal Engine 5.3 - Next Level Tech Is Coming!",
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambdalabs.com/papers The announcement is available here: ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/uN6JO-5GW8w/default.jpg",
+          "url": "https://i.ytimg.com/vi/obPjNYm3xIA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/uN6JO-5GW8w/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/obPjNYm3xIA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/uN6JO-5GW8w/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/obPjNYm3xIA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Programming with Mosh",
+      "channelTitle": "Two Minute Papers",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-12-20T08:12:53Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-11T14:52:35Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "42124",
-      "likeCount": "1235",
+      "viewCount": "176237",
+      "likeCount": "6438",
       "favoriteCount": "0",
-      "commentCount": "200"
+      "commentCount": "350"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "LgLBUG3c41YqyL4202BuPBhY_K8",
-    "id": { "kind": "youtube#video", "videoId": "FhyHvFXXkbo" },
+    "etag": "TqiFVvF8M3vdqVQ6M24ov1H3TE4",
+    "id": { "kind": "youtube#video", "videoId": "YvNWuoi0Q-s" },
     "snippet": {
-      "publishedAt": "2022-11-15T14:00:07Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "Don&#39;t write code like John Smith!",
-      "description": "This is what happens when you write bad code. See the kind of mess John Smith has made... Don't be like him! Get access to 40+ ...",
+      "publishedAt": "2023-10-09T21:00:26Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "How you can build Flutter apps with FlutterFlow",
+      "description": "Tune in to a new episode of #ObservableFlutter on October 12, 2023, to learn how you can build Flutter apps with FlutterFlow.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/FhyHvFXXkbo/default.jpg",
+          "url": "https://i.ytimg.com/vi/YvNWuoi0Q-s/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/FhyHvFXXkbo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YvNWuoi0Q-s/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/FhyHvFXXkbo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YvNWuoi0Q-s/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Programming with Mosh",
+      "channelTitle": "Flutter",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-11-15T14:00:07Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-09T21:00:26Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "70709",
-      "likeCount": "2992",
+      "viewCount": "10265",
+      "likeCount": "518",
       "favoriteCount": "0",
-      "commentCount": "277"
+      "commentCount": "20"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "qAojt5bTPprHABq__fv_8rVa_eE",
-    "id": { "kind": "youtube#video", "videoId": "ZzaPdXTrSb8" },
+    "etag": "Kzmgpb1I9gZHfnFUxSX76Ytenx4",
+    "id": { "kind": "youtube#video", "videoId": "Zlgkzjndpak" },
     "snippet": {
-      "publishedAt": "2022-08-10T16:00:12Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "C++ Tutorial for Beginners - Learn C++ in 1 Hour",
-      "description": "This C++ tutorial for beginners shows you how to get started with C++ quickly. Learn C++ basics in 1 hour and get ready to learn ...",
+      "publishedAt": "2023-10-05T16:53:49Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "OpenAI’s ChatGPT Makes A Game For $1!",
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambdalabs.com/papers The paper \"Communicative Agents for ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ZzaPdXTrSb8/default.jpg",
+          "url": "https://i.ytimg.com/vi/Zlgkzjndpak/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ZzaPdXTrSb8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Zlgkzjndpak/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ZzaPdXTrSb8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Zlgkzjndpak/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Programming with Mosh",
+      "channelTitle": "Two Minute Papers",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-08-10T16:00:12Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-05T16:53:49Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "1451589",
-      "likeCount": "42668",
+      "viewCount": "309985",
+      "likeCount": "10788",
       "favoriteCount": "0",
-      "commentCount": "1387"
+      "commentCount": "720"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "r-gZ78DM7R7Ga7KkHncbFmOkTVQ",
-    "id": { "kind": "youtube#video", "videoId": "d56mG7DezGs" },
+    "etag": "ZHjXiSOCAIQ9ub6lZ8m4LoINiSg",
+    "id": { "kind": "youtube#video", "videoId": "2woV-R5gtuI" },
     "snippet": {
-      "publishedAt": "2022-05-23T13:00:18Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "TypeScript Tutorial for Beginners",
-      "description": "TypeScript Tutorial for Beginners. Learn TypeScript to write better large-scale JavaScript apps. This tutorial helps you get started ...",
+      "publishedAt": "2023-10-02T16:00:04Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "Release an iOS app in 7 steps",
+      "description": "Have a Flutter app that you're ready to release to the iOS App Store? In this Short @leighajarett221shows you how to navigate ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/d56mG7DezGs/default.jpg",
+          "url": "https://i.ytimg.com/vi/2woV-R5gtuI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/d56mG7DezGs/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2woV-R5gtuI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2woV-R5gtuI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Programming with Mosh",
+      "channelTitle": "Flutter",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-05-23T13:00:18Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-10-02T16:00:04Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "600113",
-      "likeCount": "12256",
+      "viewCount": "10815",
+      "likeCount": "564",
       "favoriteCount": "0",
-      "commentCount": "624"
+      "commentCount": "9"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "IJ0A7ywteYdwomQDhj4b4k8wT2Y",
-    "id": { "kind": "youtube#video", "videoId": "HG6yIjZapSA" },
+    "etag": "Yvcm3d9DxEqJ3vdRGEc9yyu4nuU",
+    "id": { "kind": "youtube#video", "videoId": "qD9KI9qOoBA" },
     "snippet": {
-      "publishedAt": "2022-03-22T14:00:12Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "Docker Compose Tutorial",
-      "description": "Learn all about Docker Compose so you can orchestrate your services with confidence! - Get the complete Docker course (zero to ...",
+      "publishedAt": "2023-09-26T09:18:54Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "Style Queries - a CSS game changer! #shorts",
+      "description": "Subscribe to @NetNinja Visit https://www.tiktok.com/@thenetninjauk for more tips & tricks!",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HG6yIjZapSA/default.jpg",
+          "url": "https://i.ytimg.com/vi/qD9KI9qOoBA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HG6yIjZapSA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qD9KI9qOoBA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HG6yIjZapSA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qD9KI9qOoBA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Programming with Mosh",
+      "channelTitle": "Net Ninja",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-03-22T14:00:12Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-09-26T09:18:54Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "252553",
-      "likeCount": "4724",
+      "viewCount": "8208",
+      "likeCount": "485",
       "favoriteCount": "0",
-      "commentCount": "385"
+      "commentCount": "10"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "WM8nO3RhfoRiscHMR7oug-Ow9vc",
-    "id": { "kind": "youtube#video", "videoId": "rH0winlka8A" },
+    "etag": "hN3W0AkTc5XPJdRDGRXULL75smQ",
+    "id": { "kind": "youtube#video", "videoId": "hr85Lc_WT38" },
     "snippet": {
-      "publishedAt": "2022-03-01T14:00:18Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "Java Collections Tutorial",
-      "description": "Learn all about Java Collections and write Java code with confidence! Want to master Java? Get my complete Java mastery ...",
+      "publishedAt": "2023-09-19T16:51:21Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "NVIDIA’s DLSS 3.5: This Should Be Impossible!",
+      "description": "Check out Weights & Biases and sign up for a free demo here: https://wandb.me/2mp My paper on neural rendering: ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/rH0winlka8A/default.jpg",
+          "url": "https://i.ytimg.com/vi/hr85Lc_WT38/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/rH0winlka8A/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hr85Lc_WT38/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/rH0winlka8A/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hr85Lc_WT38/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Programming with Mosh",
+      "channelTitle": "Two Minute Papers",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-03-01T14:00:18Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-09-19T16:51:21Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "106474",
-      "likeCount": "2026",
+      "viewCount": "282119",
+      "likeCount": "10155",
+      "favoriteCount": "0",
+      "commentCount": "983"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4-XPKzwiqlnRHal8l2IMGlI95q4",
+    "id": { "kind": "youtube#video", "videoId": "ATvvACr1XnM" },
+    "snippet": {
+      "publishedAt": "2023-09-13T19:00:46Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "Flutter for iOS devs",
+      "description": "Whether you're an experienced iOS developer or just getting started, this Short will provide you with a overview on how Flutter ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ATvvACr1XnM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ATvvACr1XnM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ATvvACr1XnM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Flutter",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-13T19:00:46Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "14705",
+      "likeCount": "983",
+      "favoriteCount": "0",
+      "commentCount": "15"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "l05OtWy47vHhGTLeERtZnigFRnA",
+    "id": { "kind": "youtube#video", "videoId": "PVpMYHggalQ" },
+    "snippet": {
+      "publishedAt": "2023-09-12T09:24:17Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "Individual Transform Properties #shorts",
+      "description": "Subscribe to @NetNinja Visit https://www.tiktok.com/@thenetninjauk for more tips & tricks!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PVpMYHggalQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PVpMYHggalQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PVpMYHggalQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Net Ninja",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-12T09:24:17Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "5333",
+      "likeCount": "275",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "x6cLzdbcOW9YN4nfPdmSNaMg_mI",
+    "id": { "kind": "youtube#video", "videoId": "OSAuAWwnWq8" },
+    "snippet": {
+      "publishedAt": "2023-09-05T08:02:46Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "Better Drop Caps Styling Using Initial Letter #shorts",
+      "description": "Subscribe to @NetNinja Visit https://www.tiktok.com/@thenetninjauk for more tips and tricks!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OSAuAWwnWq8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OSAuAWwnWq8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OSAuAWwnWq8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Net Ninja",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-05T08:02:46Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "4588",
+      "likeCount": "264",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "vElaQoamPDLDy9xZGZLupiRyDWQ",
+    "id": { "kind": "youtube#video", "videoId": "V4dO2pyYGgs" },
+    "snippet": {
+      "publishedAt": "2023-09-03T12:06:46Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "Reinforced Self-Training (ReST) for Language Modeling (Paper Explained)",
+      "description": "ai #rlhf #llm ReST uses a bootsrap-like method to produce its own extended dataset and trains on ever higher-quality subsets of it ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V4dO2pyYGgs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V4dO2pyYGgs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V4dO2pyYGgs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yannic Kilcher",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-03T12:06:46Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "29749",
+      "likeCount": "824",
       "favoriteCount": "0",
       "commentCount": "96"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "kjGq5AeQnB22S73nTfg3Zf9hXT8",
-    "id": { "kind": "youtube#video", "videoId": "7i3Rliqzquw" },
+    "etag": "FhPh9foBwjZraDBUdLV8Hr0zYU4",
+    "id": { "kind": "youtube#video", "videoId": "TLi_BcCDAgA" },
     "snippet": {
-      "publishedAt": "2022-02-22T14:00:07Z",
-      "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-      "title": "Java Generics Tutorial",
-      "description": "Learn all about Java Generics and write Java code with confidence! Want to master Java? Get my complete Java mastery ...",
+      "publishedAt": "2023-08-23T03:39:23Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "App Theme Reveal Effect | Flutter Shorts",
+      "description": "Check out this simple tutorial where I show you how to add a reveal effect to your app's theme using Riverpod, with just a few easy ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/7i3Rliqzquw/default.jpg",
+          "url": "https://i.ytimg.com/vi/TLi_BcCDAgA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/7i3Rliqzquw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TLi_BcCDAgA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/7i3Rliqzquw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TLi_BcCDAgA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
-      "channelTitle": "Programming with Mosh",
+      "channelTitle": "The CS Guy",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-02-22T14:00:07Z",
-      "channelImage": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj"
+      "publishTime": "2023-08-23T03:39:23Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
     },
     "statistics": {
-      "viewCount": "43274",
-      "likeCount": "962",
+      "viewCount": "185",
+      "likeCount": "7",
       "favoriteCount": "0",
-      "commentCount": "43"
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GhSVxPv3v25u8h1coJl_2Fsg_bw",
+    "id": { "kind": "youtube#video", "videoId": "TTPuNolpaDI" },
+    "snippet": {
+      "publishedAt": "2023-08-22T08:33:37Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "@starting-style Makes Transitions MUCH Better #shorts",
+      "description": "Subscribe to @NetNinja - Follow us on TikTok for more tips & tricks: https://www.tiktok.com/@thenetninjauk.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TTPuNolpaDI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TTPuNolpaDI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TTPuNolpaDI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Net Ninja",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-22T08:33:37Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "6294",
+      "likeCount": "478",
+      "favoriteCount": "0",
+      "commentCount": "13"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "b3_UXfzrdn41Ys1cCgfxxOwC7UU",
+    "id": { "kind": "youtube#video", "videoId": "C3niYu6VUhk" },
+    "snippet": {
+      "publishedAt": "2023-08-15T10:02:58Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "Finally, CSS Nesting Without SASS #shorts",
+      "description": "For more tips & tricks visit our TikTok: https://www.tiktok.com/@thenetninjauk.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C3niYu6VUhk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C3niYu6VUhk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C3niYu6VUhk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Net Ninja",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-15T10:02:58Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "12349",
+      "likeCount": "807",
+      "favoriteCount": "0",
+      "commentCount": "15"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZBbNA-JmiVc38qQ29DTt5wIpUzg",
+    "id": { "kind": "youtube#video", "videoId": "DQDdPt1UUSw" },
+    "snippet": {
+      "publishedAt": "2023-08-09T17:19:36Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "Interested in building games with Flutter?",
+      "description": "Latest from Learning to Fly → https://goo.gle/3OPNPFE Catch more videos → https://goo.gle/LearningToFly Subscribe to Flutter ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DQDdPt1UUSw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DQDdPt1UUSw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DQDdPt1UUSw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Flutter",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-09T17:19:36Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "11989",
+      "likeCount": "654",
+      "favoriteCount": "0",
+      "commentCount": "11"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "sr8mh-I8FtxzepA6OQlYou1T9HE",
+    "id": { "kind": "youtube#video", "videoId": "nuHabust2ps" },
+    "snippet": {
+      "publishedAt": "2023-07-30T12:34:02Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "How to estimate Flutter freelance cost",
+      "description": "Shorts Flutter freelancers can make more money and work fewer hours. Make the switch to fixed pricing. Hourly rates punish you ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nuHabust2ps/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nuHabust2ps/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nuHabust2ps/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-30T12:34:02Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "2639",
+      "likeCount": "182",
+      "favoriteCount": "0",
+      "commentCount": "32"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "UJY2ZFyOZeO6z7HsI8tTtMHs66Q",
+    "id": { "kind": "youtube#video", "videoId": "QekIsLbbSSI" },
+    "snippet": {
+      "publishedAt": "2023-07-29T12:04:02Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "Professional Flutter developer toolset",
+      "description": "Shorts The production Flutter developer tools to create and maintain high quality apps Spoiler, one of these tools do not exist: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QekIsLbbSSI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QekIsLbbSSI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QekIsLbbSSI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-29T12:04:02Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "2840",
+      "likeCount": "198",
+      "favoriteCount": "0",
+      "commentCount": "11"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6-TrHlJy_2MppRzcUazH9b5M78Y",
+    "id": { "kind": "youtube#video", "videoId": "dMN7iLV2eCE" },
+    "snippet": {
+      "publishedAt": "2023-07-28T12:04:02Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "Codepush changed Flutter dev life",
+      "description": "Shorts 5 reasons why the new code push will change the lives of Flutter developers. - Fix bugs in production instantly - Push new ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dMN7iLV2eCE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dMN7iLV2eCE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dMN7iLV2eCE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-28T12:04:02Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "1525",
+      "likeCount": "97",
+      "favoriteCount": "0",
+      "commentCount": "27"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xm4opyUMIZmow1o18T_V6KF1zYc",
+    "id": { "kind": "youtube#video", "videoId": "LhNi556YLv4" },
+    "snippet": {
+      "publishedAt": "2023-07-27T14:46:00Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "Unit testing roadmap in 2023",
+      "description": "Since 2015 I've been writing unit tests, consistently. Here is a 16-Step guide to starting your own unit testing journey.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LhNi556YLv4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LhNi556YLv4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LhNi556YLv4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-27T14:46:00Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "833",
+      "likeCount": "60",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "mrA8UMS2Q0Jk26ICiqmgOK12RCU",
+    "id": { "kind": "youtube#video", "videoId": "u80f2pFdi5g" },
+    "snippet": {
+      "publishedAt": "2023-07-26T13:51:00Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "Flutter Unit Test Coaching",
+      "description": "I've coached developers from not writing tests to loving unit tests. Here are the 5 biggest unit test blockers and how to get over ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u80f2pFdi5g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u80f2pFdi5g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u80f2pFdi5g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-26T13:51:00Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "1457",
+      "likeCount": "84",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "VOlChTY5ArwBU6av9T90-2C8IsU",
+    "id": { "kind": "youtube#video", "videoId": "3zDx4mJMFw8" },
+    "snippet": {
+      "publishedAt": "2023-07-25T18:00:01Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "500K subscribers!",
+      "description": "Thank you for coming with us on this journey full of laughs and helping us reach 500K subscribers. Enjoy a behind the scenes ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3zDx4mJMFw8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3zDx4mJMFw8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3zDx4mJMFw8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Flutter",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-25T18:00:01Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "9783",
+      "likeCount": "628",
+      "favoriteCount": "0",
+      "commentCount": "21"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3YroXnioccx4ULFtwE_lZTUPR9g",
+    "id": { "kind": "youtube#video", "videoId": "LKl0dUvwhpk" },
+    "snippet": {
+      "publishedAt": "2023-07-25T13:04:09Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "The Best Code is No Code",
+      "description": "Shorts The best code is no code. Code requires periodic maintenance. One way to reduce this burden is by removing code. “But ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LKl0dUvwhpk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LKl0dUvwhpk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LKl0dUvwhpk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-25T13:04:09Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "838",
+      "likeCount": "62",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "pXPBn5a9WKerdf1v_7ki3O-FZvo",
+    "id": { "kind": "youtube#video", "videoId": "Z5tIFj53YKI" },
+    "snippet": {
+      "publishedAt": "2023-07-24T13:31:07Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "My Top 6 Flutter Freelance Habits",
+      "description": "I drastically improved my Flutter Freelancing by going from Guesswork to Precision. By building more detailed technical outlines I ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Z5tIFj53YKI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Z5tIFj53YKI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Z5tIFj53YKI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-24T13:31:07Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "969",
+      "likeCount": "65",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "O7kdY4KhJziTvh2sZaZfpDX3RW0",
+    "id": { "kind": "youtube#video", "videoId": "5hcEl8x5Gmo" },
+    "snippet": {
+      "publishedAt": "2023-07-23T14:57:09Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "What is Your Flutter Code Level?",
+      "description": "Stages for Flutter developers code quality as seen through comments Beginner: Comments to explain classes, functions, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5hcEl8x5Gmo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5hcEl8x5Gmo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5hcEl8x5Gmo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-23T14:57:09Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "1600",
+      "likeCount": "102",
+      "favoriteCount": "0",
+      "commentCount": "15"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "M2h3b9vfR4faGKZRBznsKA6GEVo",
+    "id": { "kind": "youtube#video", "videoId": "xsvdGc9WQMo" },
+    "snippet": {
+      "publishedAt": "2023-07-22T13:04:42Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "Why devs should care about analytics",
+      "description": "Shorts Software engineers should care about analytics. Probably more than the non-engineering staff. This is my reasoning: - It ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xsvdGc9WQMo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xsvdGc9WQMo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xsvdGc9WQMo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-22T13:04:42Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "991",
+      "likeCount": "50",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "yMm4BLI5vKwYD6tc_SHNpESiSf4",
+    "id": { "kind": "youtube#video", "videoId": "Vbpn5Ap0lDM" },
+    "snippet": {
+      "publishedAt": "2023-07-21T12:00:33Z",
+      "channelId": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "title": "How ChatGPT Can Help Developers",
+      "description": "Write a good chatGPT prompt: https://codewithai.substack.com/p/coming-soon --- Every developer should have a task that ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vbpn5Ap0lDM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vbpn5Ap0lDM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vbpn5Ap0lDM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "FilledStacks",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-21T12:00:33Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbt968pZqYyj7iEMn2J5OrKwntMOzy1Rej4fuWJ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "857",
+      "likeCount": "46",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "4W1vKTkTho-Qp5yHhjqifgbEeaY",
+    "id": { "kind": "youtube#video", "videoId": "-wAL46TFwQU" },
+    "snippet": {
+      "publishedAt": "2023-07-13T18:03:14Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "Firestore (Package of the Week)",
+      "description": "Firestore is a flexible, scalable NoSQL database for mobile, web and server development by Firebase. It offers real-time updates, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-wAL46TFwQU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-wAL46TFwQU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-wAL46TFwQU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Flutter",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-13T18:03:14Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "28261",
+      "likeCount": "826",
+      "favoriteCount": "0",
+      "commentCount": "57"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "YkDMxiTBd-8-rgs70geazzF4CVg",
+    "id": { "kind": "youtube#video", "videoId": "PpgJDeRomFU" },
+    "snippet": {
+      "publishedAt": "2023-07-10T23:27:14Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "Build Your AI Startup at GPT School",
+      "description": "Enroll at https://www.gptschool.app.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PpgJDeRomFU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PpgJDeRomFU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PpgJDeRomFU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-10T23:27:14Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "5843",
+      "likeCount": "158",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "hkL3opLZgvAuUNsnjV0jnzZYAuk",
+    "id": { "kind": "youtube#video", "videoId": "31oxj6mcsOM" },
+    "snippet": {
+      "publishedAt": "2023-06-29T14:32:07Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "Google’s New AI: Next-Level Virtual Worlds!",
+      "description": "Check out Weights & Biases and say hi in their community forum here: https://wandb.me/paperforum The paper \"Zip-NeRF: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/31oxj6mcsOM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/31oxj6mcsOM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/31oxj6mcsOM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Two Minute Papers",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-29T14:32:07Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "102437",
+      "likeCount": "4950",
+      "favoriteCount": "0",
+      "commentCount": "255"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "roPD6NjIEJ5Iwe7-xOZ84-g42LE",
+    "id": { "kind": "youtube#video", "videoId": "ginCmJEdZ0g" },
+    "snippet": {
+      "publishedAt": "2023-06-29T12:30:39Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "GraphQL Crash Course #4 - Schema &amp; Types",
+      "description": "Get early access to this entire course now on Net Ninja Pro: https://netninja.dev/p/graphql-crash-course Access the course ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ginCmJEdZ0g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ginCmJEdZ0g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ginCmJEdZ0g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Net Ninja",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-29T12:30:39Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "11298",
+      "likeCount": "251",
+      "favoriteCount": "0",
+      "commentCount": "18"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "YyHnfCqMuuH69JXLETb6MreZ5HA",
+    "id": { "kind": "youtube#video", "videoId": "q6MxsS2iPnw" },
+    "snippet": {
+      "publishedAt": "2023-06-28T06:45:01Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "GraphQL Crash Course #3 - Making a GraphQL Server (with Apollo)",
+      "description": "Get early access to this entire course now on Net Ninja Pro: https://netninja.dev/p/graphql-crash-course Access the course ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q6MxsS2iPnw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q6MxsS2iPnw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q6MxsS2iPnw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Net Ninja",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-28T06:45:01Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "15536",
+      "likeCount": "267",
+      "favoriteCount": "0",
+      "commentCount": "13"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "k48xXQpCRb2cGIrATgHEO86V5Uk",
+    "id": { "kind": "youtube#video", "videoId": "kyY9PSQRH1Q" },
+    "snippet": {
+      "publishedAt": "2023-06-27T15:30:11Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "AI Jesus Made Me a Believer",
+      "description": "I converted to Christianity after talking to AI Jesus! I'll explain my personal spiritual experience with AI Jesus, then we'll build our ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kyY9PSQRH1Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kyY9PSQRH1Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kyY9PSQRH1Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-27T15:30:11Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "9400",
+      "likeCount": "239",
+      "favoriteCount": "0",
+      "commentCount": "118"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "_Zd_7FeVdqoA316ErQWw_y0I1vQ",
+    "id": { "kind": "youtube#video", "videoId": "39CPVkZE4nM" },
+    "snippet": {
+      "publishedAt": "2023-06-27T07:15:00Z",
+      "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "title": "GraphQL Crash Course #2 - Query Basics",
+      "description": "Get early access to this entire course now on Net Ninja Pro: https://netninja.dev/p/graphql-crash-course Access the course ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/39CPVkZE4nM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/39CPVkZE4nM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/39CPVkZE4nM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Net Ninja",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-27T07:15:00Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYOe1_kKqSz3rvE6dbf0YV1Itru68Tkz3Ir0q9R0Q=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "18460",
+      "likeCount": "428",
+      "favoriteCount": "0",
+      "commentCount": "17"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "bGz1HvVsfVBIk8ZmMrTHSBmYhQY",
+    "id": { "kind": "youtube#video", "videoId": "n2qCry_o2Fs" },
+    "snippet": {
+      "publishedAt": "2023-06-23T15:42:24Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "DeepMind’s New AI: History In The Making!",
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambdalabs.com/papers The paper \"Faster sorting algorithms ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n2qCry_o2Fs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n2qCry_o2Fs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n2qCry_o2Fs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Two Minute Papers",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-23T15:42:24Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "215734",
+      "likeCount": "7640",
+      "favoriteCount": "0",
+      "commentCount": "507"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "A5AyWX-0v0T0U17PLBnSFc2wVuI",
+    "id": { "kind": "youtube#video", "videoId": "KFsfv-BL0N0" },
+    "snippet": {
+      "publishedAt": "2023-06-21T15:18:46Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "NVIDIA’s New AI: Ray Tracing From 10,000 Images!",
+      "description": "Check out Weights & Biases and sign up for a free demo here: https://wandb.com/papers The paper \"Joint Neural Denoising of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KFsfv-BL0N0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KFsfv-BL0N0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KFsfv-BL0N0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Two Minute Papers",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-21T15:18:46Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "159086",
+      "likeCount": "6034",
+      "favoriteCount": "0",
+      "commentCount": "309"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "6kiVhSDRnf23gIsIJ_XmZi-MPmU",
+    "id": { "kind": "youtube#video", "videoId": "Tkijsu129M0" },
+    "snippet": {
+      "publishedAt": "2023-06-21T00:54:03Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "[ML News] GPT-4 solves MIT Exam with 100% ACCURACY | OpenLLaMA 13B released",
+      "description": "gpt4 #mit #ai A new paper claims to use GPT-4 to solve 100% of a set of MIT university exercises. Some people are skeptic and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Tkijsu129M0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Tkijsu129M0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Tkijsu129M0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yannic Kilcher",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-21T00:54:03Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "70786",
+      "likeCount": "1798",
+      "favoriteCount": "0",
+      "commentCount": "248"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9pseaoCdgeYa4M46NSQ_9I-z6n8",
+    "id": { "kind": "youtube#video", "videoId": "DPeFu8pJENY" },
+    "snippet": {
+      "publishedAt": "2023-06-17T19:19:27Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "Build an AI Trading Bot WITHOUT Coding",
+      "description": "AI makes it possible for anyone to build a custom trading strategy without having any coding experience! We'll use Composer's ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DPeFu8pJENY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DPeFu8pJENY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DPeFu8pJENY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-17T19:19:27Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "12804",
+      "likeCount": "391",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZlFJmaFcm5-vvxrOmWCs4c9JJk8",
+    "id": { "kind": "youtube#video", "videoId": "PncTPQJDUDs" },
+    "snippet": {
+      "publishedAt": "2023-06-17T16:40:57Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "NVIDIA’s New AI: Making Games Come Alive!",
+      "description": "Check out Weights & Biases and sign up for a free demo here: https://wandb.com/papers Resources: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PncTPQJDUDs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PncTPQJDUDs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PncTPQJDUDs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Two Minute Papers",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-17T16:40:57Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaNM-OovWfBKWSPlCD2xafwEuXGgg01KkVxbGqLHg=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "113877",
+      "likeCount": "5972",
+      "favoriteCount": "0",
+      "commentCount": "342"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qksDppc6jQALEhsm_XObs0hq0pI",
+    "id": { "kind": "youtube#video", "videoId": "EEwsOc9iCXY" },
+    "snippet": {
+      "publishedAt": "2023-06-15T14:37:23Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "Introducing GPT School",
+      "description": "I'm building a prompt engineering community called GPT School! Prompt battles, coding challenges, live workshops, there's going ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EEwsOc9iCXY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EEwsOc9iCXY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EEwsOc9iCXY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-15T14:37:23Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "10869",
+      "likeCount": "207",
+      "favoriteCount": "0",
+      "commentCount": "69"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "W80cb9Q3msVnObOxFMmuoBO8qiE",
+    "id": { "kind": "youtube#video", "videoId": "OyBdngSh9os" },
+    "snippet": {
+      "publishedAt": "2023-06-08T18:15:31Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "Flutter at I/O Connect Miami",
+      "description": "akaKhanh takes us behind the scenes at I/O Connect Miami! Register for an I/O Connect event near you ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OyBdngSh9os/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OyBdngSh9os/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OyBdngSh9os/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Flutter",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-08T18:15:31Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "9374",
+      "likeCount": "455",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "us-D3tUJ7jF_adJroQvgs0ZPzbA",
+    "id": { "kind": "youtube#video", "videoId": "WncUlZYpdq4" },
+    "snippet": {
+      "publishedAt": "2023-06-06T19:55:30Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust (Explained)",
+      "description": "stablediffusion #ai #watermark Watermarking the outputs of generative models is usually done as a post-processing step on the ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WncUlZYpdq4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WncUlZYpdq4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WncUlZYpdq4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yannic Kilcher",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-06T19:55:30Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "25976",
+      "likeCount": "753",
+      "favoriteCount": "0",
+      "commentCount": "132"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "sGUEQHmfIOgJowyKgbCuI3Qni48",
+    "id": { "kind": "youtube#video", "videoId": "x8pW19wKfXQ" },
+    "snippet": {
+      "publishedAt": "2023-06-02T22:38:25Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "RWKV: Reinventing RNNs for the Transformer Era (Paper Explained)",
+      "description": "gpt4 #rwkv #transformer We take a look at RWKV, a highly scalable architecture between Transformers and RNNs.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x8pW19wKfXQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x8pW19wKfXQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x8pW19wKfXQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yannic Kilcher",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-02T22:38:25Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "62994",
+      "likeCount": "1790",
+      "favoriteCount": "0",
+      "commentCount": "128"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "BPK7w-MpScVdIPniT6Ky4hjN8D4",
+    "id": { "kind": "youtube#video", "videoId": "qXMclHmVNKU" },
+    "snippet": {
+      "publishedAt": "2023-06-02T21:04:37Z",
+      "channelId": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "title": "Explore a different way to render in Flutter",
+      "description": "Watch the full video → https://goo.gle/3NbNHiM Catch more videos → https://goo.gle/FlutterBuildShow Subscribe to Flutter ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qXMclHmVNKU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qXMclHmVNKU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qXMclHmVNKU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Flutter",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-06-02T21:04:37Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKaD8t4oFlgXcZKoW512Z81CBJuej3K9uHAlSI0x=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "16373",
+      "likeCount": "617",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "c_GE_eG9yh33p8kIMLLZMoqUydI",
+    "id": { "kind": "youtube#video", "videoId": "vnzt4lwzbXU" },
+    "snippet": {
+      "publishedAt": "2023-05-24T21:33:58Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "I Built a Hedge Fund Run by AI Agents",
+      "description": "I Gave an AI Hedge Fund $1000 to invest with and in this video i'll explain how we built the trading algorithm and what the returns ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vnzt4lwzbXU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vnzt4lwzbXU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vnzt4lwzbXU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-24T21:33:58Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "31751",
+      "likeCount": "1015",
+      "favoriteCount": "0",
+      "commentCount": "99"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "YR2RKp2JYvdpviLW9KmfMe65ooI",
+    "id": { "kind": "youtube#video", "videoId": "ut5kp56wW_4" },
+    "snippet": {
+      "publishedAt": "2023-05-23T11:21:44Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Full Paper Review)",
+      "description": "gpt4 #ai #prompt Tree-of-Thought improves prompting of large language models (LLMs) by generalizing the concept of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ut5kp56wW_4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ut5kp56wW_4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ut5kp56wW_4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yannic Kilcher",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-23T11:21:44Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "93088",
+      "likeCount": "2505",
+      "favoriteCount": "0",
+      "commentCount": "158"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "toMRx-_uETY-fSZ0AmVDI5DkIeo",
+    "id": { "kind": "youtube#video", "videoId": "I72_GJHzH3Y" },
+    "snippet": {
+      "publishedAt": "2023-05-21T10:26:34Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "OpenAI suggests AI licenses (US Senate hearing on AI regulation w/ Sam Altman)",
+      "description": "ai #openai #gpt4 US Senate hearing on AI regulation. MLST video on the hearing: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I72_GJHzH3Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I72_GJHzH3Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I72_GJHzH3Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yannic Kilcher",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-21T10:26:34Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "33385",
+      "likeCount": "1817",
+      "favoriteCount": "0",
+      "commentCount": "470"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "AnKQyj9Ocvpp27B80jeQCV3KaxQ",
+    "id": { "kind": "youtube#video", "videoId": "BaSgUREIPkc" },
+    "snippet": {
+      "publishedAt": "2023-05-16T18:21:44Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "I Built a Sports Betting Bot with OddsJam and ChatGPT",
+      "description": "I Gave $1000 to my Sports Betting Bot powered by OddsJam, use code SIRAJ20 to get 20% off your subscription using the link ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BaSgUREIPkc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BaSgUREIPkc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BaSgUREIPkc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-16T18:21:44Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "67307",
+      "likeCount": "1165",
+      "favoriteCount": "0",
+      "commentCount": "127"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qC0mFiDI4nQOV61KVhSkL0rkpYQ",
+    "id": { "kind": "youtube#video", "videoId": "iWza_gvOAnc" },
+    "snippet": {
+      "publishedAt": "2023-05-16T00:51:39Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "AI SF Hackathon ($100K Prize Pool)",
+      "description": "Register today for AI SF May 15-19 in San Francisco here - https://aisf.co/ Join my AI community: http://chatgptschool.io/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iWza_gvOAnc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iWza_gvOAnc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iWza_gvOAnc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-16T00:51:39Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "3429",
+      "likeCount": "79",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "28ClDJbHS69BIL9z1WkDU1llySU",
+    "id": { "kind": "youtube#video", "videoId": "cjs7QKJNVYM" },
+    "snippet": {
+      "publishedAt": "2023-05-12T20:59:19Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "[ML News] Geoff Hinton leaves Google | Google has NO MOAT | OpenAI down half a billion",
+      "description": "google #openai #mlnews Updates from the world of Machine Learning and AI Great AI memes here: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cjs7QKJNVYM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cjs7QKJNVYM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cjs7QKJNVYM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yannic Kilcher",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-12T20:59:19Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "45757",
+      "likeCount": "2351",
+      "favoriteCount": "0",
+      "commentCount": "273"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ifxInH96Nov1PpcRsosC-arJgCc",
+    "id": { "kind": "youtube#video", "videoId": "5G1_zRME_pY" },
+    "snippet": {
+      "publishedAt": "2023-05-11T20:38:03Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "I Built a Trading Bot with Bing and ChatGPT",
+      "description": "I gave Bing and ChatGPT $1000 to invest with and in this video i'll explain how we built the trading algorithm and what the returns ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5G1_zRME_pY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5G1_zRME_pY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5G1_zRME_pY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-05-11T20:38:03Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "124183",
+      "likeCount": "1843",
+      "favoriteCount": "0",
+      "commentCount": "147"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "meWsA-lAfBtwCUtiV_MxEz9W7SY",
+    "id": { "kind": "youtube#video", "videoId": "cqmHc0gF9m8" },
+    "snippet": {
+      "publishedAt": "2023-04-30T15:23:47Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "Sports Betting with OddsGPT",
+      "description": "I gave my sports betting bot $1000 to make sports bets (and won)! First, a disclaimer - Do NOT invest any money in any type of ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cqmHc0gF9m8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cqmHc0gF9m8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cqmHc0gF9m8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-30T15:23:47Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "32824",
+      "likeCount": "1119",
+      "favoriteCount": "0",
+      "commentCount": "57"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ZX_VXA2rBJGCGexF4pPqT_XPrHQ",
+    "id": { "kind": "youtube#video", "videoId": "4Cclp6yPDuw" },
+    "snippet": {
+      "publishedAt": "2023-04-27T21:37:31Z",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "title": "Scaling Transformer to 1M tokens and beyond with RMT (Paper Explained)",
+      "description": "ai #transformer #gpt4 This paper promises to scale transformers to 1 million tokens and beyond. We take a look at the technique ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4Cclp6yPDuw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4Cclp6yPDuw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4Cclp6yPDuw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yannic Kilcher",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-04-27T21:37:31Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "54971",
+      "likeCount": "1819",
+      "favoriteCount": "0",
+      "commentCount": "138"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "M3MrYVZ2iaYNiFhgBzihmdHtPFs",
+    "id": { "kind": "youtube#video", "videoId": "Uavcsr7xK9o" },
+    "snippet": {
+      "publishedAt": "2023-03-10T15:00:24Z",
+      "channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "title": "How I Reversed My Age 8 Years with AI",
+      "description": "For the past year, I've been reversing my age with AI and in this video, i'll show you how I do it so that you can do the same but for ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Uavcsr7xK9o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Uavcsr7xK9o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Uavcsr7xK9o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Siraj Raval",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-03-10T15:00:24Z",
+      "channelImage": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "13819",
+      "likeCount": "314",
+      "favoriteCount": "0",
+      "commentCount": "47"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "f2NZtN2Vgi-fACA_VdHIWjNLF80",
+    "id": { "kind": "youtube#video", "videoId": "Zp7VKVhirmw" },
+    "snippet": {
+      "publishedAt": "2022-04-22T17:00:37Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "Riverpod 2.0 – Complete Guide (Flutter Tutorial)",
+      "description": "Learn from the written tutorial https://resocoder.com/riverpod-2-tutorial ‍   Become a top-tier developer with the Flutter ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zp7VKVhirmw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zp7VKVhirmw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zp7VKVhirmw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-04-22T17:00:37Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "96265",
+      "likeCount": "2291",
+      "favoriteCount": "0",
+      "commentCount": "156"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GCYZsf8CEp3-8wzMTbO9NB9kKAY",
+    "id": { "kind": "youtube#video", "videoId": "kQ4xM4gZ_yI" },
+    "snippet": {
+      "publishedAt": "2022-03-12T07:30:05Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "Flutter Speedcode | Gaming App Dashboard",
+      "description": "flutter #speedcode #uidesign Gaming app dashboard UI in Flutter. Apk and Github link will be available soon. Consider ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kQ4xM4gZ_yI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kQ4xM4gZ_yI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kQ4xM4gZ_yI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The CS Guy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-12T07:30:05Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "1473",
+      "likeCount": "40",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "0O8Voznc1ky-5L8oQ1LvtQAKhYo",
+    "id": { "kind": "youtube#video", "videoId": "Ghqry5dtgH4" },
+    "snippet": {
+      "publishedAt": "2022-03-03T18:00:08Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "Flutter Testing Guide for Beginners – Part 2: Widget &amp; Integration Tests",
+      "description": "Get the code snippets & project repo     https://resocoder.com/flutter-testing-pt2 Get Flutter news and resources: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ghqry5dtgH4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ghqry5dtgH4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ghqry5dtgH4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-03-03T18:00:08Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "35908",
+      "likeCount": "803",
+      "favoriteCount": "0",
+      "commentCount": "45"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cX6Ppli3LsopVZa2NTmvq_PDDK0",
+    "id": { "kind": "youtube#video", "videoId": "VXYMMLHGujU" },
+    "snippet": {
+      "publishedAt": "2022-02-18T18:33:00Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "How to prevent snackbar from displacing FAB? #shorts",
+      "description": "Youtube #shorts on #Flutter, explaining how to prevent snack bar from displacing Floating Action Button.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VXYMMLHGujU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VXYMMLHGujU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VXYMMLHGujU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The CS Guy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-18T18:33:00Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "475",
+      "likeCount": "21",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "N4pfw-HmdowMYGKIUlCknbmgrEo",
+    "id": { "kind": "youtube#video", "videoId": "jDWNNcncY2o" },
+    "snippet": {
+      "publishedAt": "2022-02-16T03:30:08Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "Firebase Sign In and Form Validation in Flutter",
+      "description": "In this video, we will explore the implementation of Email Password API in Flutter. Timestamps: 00:00 - 00:35 : Introduction 00:36 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jDWNNcncY2o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jDWNNcncY2o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jDWNNcncY2o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The CS Guy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-16T03:30:08Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "972",
+      "likeCount": "18",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1qlVIHABaDtCCE4Pu0mISzzfB_I",
+    "id": { "kind": "youtube#video", "videoId": "RwYyHV_97zc" },
+    "snippet": {
+      "publishedAt": "2022-02-11T05:15:00Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "Email Password Signup in Flutter with Firebase",
+      "description": "In this video, we will explore the implementation of Email Password API in Flutter. Timestamps: 00:00 - 00:42 : Introduction 00:47 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RwYyHV_97zc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RwYyHV_97zc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RwYyHV_97zc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The CS Guy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-11T05:15:00Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "473",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WFawcB_NcMDpAntBKTgfLAbDBqs",
+    "id": { "kind": "youtube#video", "videoId": "PfjzsevXU1Y" },
+    "snippet": {
+      "publishedAt": "2022-02-09T09:30:04Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "Flutter has platform adaptive icons?",
+      "description": "Did you know about the Icons.adaptive API in Flutter? If you did, great, if you didn't, well now you do. #shorts #flutter.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PfjzsevXU1Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PfjzsevXU1Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PfjzsevXU1Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The CS Guy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-09T09:30:04Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "1761",
+      "likeCount": "66",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7YkLplh7eFOESVvzmHok_0fDpy0",
+    "id": { "kind": "youtube#video", "videoId": "hUAUAkIZmX0" },
+    "snippet": {
+      "publishedAt": "2022-02-08T18:00:29Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "Flutter Testing Guide for Beginners - Part 1: Unit Tests &amp; Setup",
+      "description": "Get the starter project & code snippets     https://resocoder.com/flutter-testing-pt1 Get Flutter news and resources: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hUAUAkIZmX0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hUAUAkIZmX0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hUAUAkIZmX0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-08T18:00:29Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "99797",
+      "likeCount": "2294",
+      "favoriteCount": "0",
+      "commentCount": "108"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Us-6Bt14iKNa_v_onECBrt4cf8k",
+    "id": { "kind": "youtube#video", "videoId": "P-TERH5KaQg" },
+    "snippet": {
+      "publishedAt": "2022-02-07T04:40:00Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "Flutter Authentication with Firebase",
+      "description": "A quick video to let everyone know about the beginning of a new video series where we will explore the firebase authentication ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P-TERH5KaQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P-TERH5KaQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P-TERH5KaQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The CS Guy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-07T04:40:00Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "4409",
+      "likeCount": "97",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "1pwgr-FVNKd_BKBDJqgae_Tdjt8",
+    "id": { "kind": "youtube#video", "videoId": "Bafmg-Pnf28" },
+    "snippet": {
+      "publishedAt": "2022-02-06T08:00:09Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "Flutter Authentication with Firebase | The Groundwork",
+      "description": "In this series, we'll explore the firebase authentication APIs in Flutter for various auth providers. However, in this introduction video ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bafmg-Pnf28/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bafmg-Pnf28/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bafmg-Pnf28/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The CS Guy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-02-06T08:00:09Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "1050",
+      "likeCount": "26",
+      "favoriteCount": "0",
+      "commentCount": "15"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "iNcbiYO9AuHfQZJBw2zBOm0xuok",
+    "id": { "kind": "youtube#video", "videoId": "bXwK1Lrfihw" },
+    "snippet": {
+      "publishedAt": "2021-10-03T02:01:27Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "Create Responsive Flutter Apps with Minimal Effort",
+      "description": "Learn from the written tutorial https://resocoder.com/responsive-flutter-tutorial Get Flutter news and resources: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bXwK1Lrfihw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bXwK1Lrfihw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bXwK1Lrfihw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-10-03T02:01:27Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "66313",
+      "likeCount": "1531",
+      "favoriteCount": "0",
+      "commentCount": "57"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xPJAyBcK8xOqKCEnlM20yBB-R2c",
+    "id": { "kind": "youtube#video", "videoId": "9oH42_Axr3Q" },
+    "snippet": {
+      "publishedAt": "2021-09-16T17:00:05Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "Flutter Bottom Navigation with Nested Routing (Auto Route)",
+      "description": "Learn from the written tutorial & get the code https://resocoder.com/flutter-bottom-nav-routing Get Flutter news and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9oH42_Axr3Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9oH42_Axr3Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9oH42_Axr3Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-16T17:00:05Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "56462",
+      "likeCount": "1051",
+      "favoriteCount": "0",
+      "commentCount": "92"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "QWbgW0DA-Q0Aml4AKPtFNEQ2GvY",
+    "id": { "kind": "youtube#video", "videoId": "MLEOFZoxMxc" },
+    "snippet": {
+      "publishedAt": "2021-09-04T17:00:14Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "Flutter AdMob Monetization – Banner and Interstitial Ads",
+      "description": "Learn from the written tutorial & get the code https://resocoder.com/admob-flutter-tutorial Get Flutter news and ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MLEOFZoxMxc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MLEOFZoxMxc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MLEOFZoxMxc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-09-04T17:00:14Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "22305",
+      "likeCount": "658",
+      "favoriteCount": "0",
+      "commentCount": "52"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "50eY06-GId0ilSCPUJFVyIuTREE",
+    "id": { "kind": "youtube#video", "videoId": "xV22lglBnig" },
+    "snippet": {
+      "publishedAt": "2021-08-27T17:00:28Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "Flutter SVG Animations With Rive",
+      "description": "Learn from the written tutorial https://resocoder.com/rive-flutter-animations Get Flutter news and resources: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xV22lglBnig/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xV22lglBnig/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xV22lglBnig/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-27T17:00:28Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "32007",
+      "likeCount": "808",
+      "favoriteCount": "0",
+      "commentCount": "44"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "gRUxuNfXJp8vwZcyEM01lJzoo2I",
+    "id": { "kind": "youtube#video", "videoId": "JAq9fVn3X7U" },
+    "snippet": {
+      "publishedAt": "2021-08-13T15:00:08Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "Flutter Awesome Notifications - Create Local Notifications With Ease",
+      "description": "Learn from the written tutorial & get the starter project     https://resocoder.com/awesome-notifications-flutter-tutorial Get Flutter ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JAq9fVn3X7U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JAq9fVn3X7U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JAq9fVn3X7U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-13T15:00:08Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "73993",
+      "likeCount": "1843",
+      "favoriteCount": "0",
+      "commentCount": "114"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "8eTXLeIeZmHhwq8WKDGiaNkjr7Q",
+    "id": { "kind": "youtube#video", "videoId": "o4Hcwkr8t18" },
+    "snippet": {
+      "publishedAt": "2021-08-03T17:00:23Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "Flutter ShowCaseView Tutorial – Introduce App Features To Your Users",
+      "description": "Learn from the written tutorial https://resocoder.com/showcase-view-tutorial Get Flutter news and resources: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o4Hcwkr8t18/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o4Hcwkr8t18/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o4Hcwkr8t18/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-03T17:00:23Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "20591",
+      "likeCount": "617",
+      "favoriteCount": "0",
+      "commentCount": "56"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "xhTrK3dGwPUq4PZL6OlOv1YVK64",
+    "id": { "kind": "youtube#video", "videoId": "AxYbdriXKI8" },
+    "snippet": {
+      "publishedAt": "2021-05-18T13:53:24Z",
+      "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "title": "ObjectBox - Fast Local Database for Flutter With Optional Sync Across Devices!",
+      "description": "ObjectBox - Superfast NoSQL DB https://objectbox.io Learn from the written tutorial https://resocoder.com/objectbox-flutter ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AxYbdriXKI8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AxYbdriXKI8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AxYbdriXKI8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Reso Coder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-05-18T13:53:24Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKbiPiDV--e5zHLJMqQl47psdPz1CIDDJjiwGYaL=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "40419",
+      "likeCount": "711",
+      "favoriteCount": "0",
+      "commentCount": "69"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Q28FKCaAuYSg26JPUYz_cnPrDHI",
+    "id": { "kind": "youtube#video", "videoId": "BfugCcmgp9M" },
+    "snippet": {
+      "publishedAt": "2020-07-06T05:52:59Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "Part - 18 - Saving Call Logs Locally | Skype Clone in Flutter",
+      "description": "We take a look at how to make the local database communicate with the UI and carry out the operations that we require, in this ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BfugCcmgp9M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BfugCcmgp9M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BfugCcmgp9M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The CS Guy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-07-06T05:52:59Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "9277",
+      "likeCount": "172",
+      "favoriteCount": "0",
+      "commentCount": "59"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "2tSfc6BPA670Ie2GkkkT64R7bjU",
+    "id": { "kind": "youtube#video", "videoId": "IBKFGWb2vsk" },
+    "snippet": {
+      "publishedAt": "2020-06-12T02:15:00Z",
+      "channelId": "UCFi0LVUvZG8V9g7npfMGaaw",
+      "title": "CRUD Operations in HIVE - Flutter Tutorial",
+      "description": "Practical implementation of #Hive database in #Flutter to store data locally. Source Code ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IBKFGWb2vsk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IBKFGWb2vsk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IBKFGWb2vsk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "The CS Guy",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-06-12T02:15:00Z",
+      "channelImage": "https://yt3.ggpht.com/ytc/APkrFKZPFLWPeWjo3Y-IlaXefa1RheLGHfzMvO1IOBU4=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "statistics": {
+      "viewCount": "8515",
+      "likeCount": "142",
+      "favoriteCount": "0",
+      "commentCount": "20"
     }
   }
 ]

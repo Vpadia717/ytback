@@ -7,8 +7,8 @@ const serviceAccount = require("./education-6fc79-firebase-adminsdk-sddla-eaf2ee
 // Initialize the Firebase app with the provided credentials
 firebase.initializeApp({
   credential: firebase.credential.cert(serviceAccount),
-  databaseURL: "https://education-6fc79-default-rtdb.firebaseio.com",
-  projectId: "education-6fc79",
+  databaseURL: "https://devtube-5b018-default-rtdb.firebaseio.com",
+  projectId: "devtube-5b018",
 });
 
 // Get a reference to the real-time database
