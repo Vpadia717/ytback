@@ -155,11 +155,25 @@ app.get("/all", async (req, res, next) => {
 // This route retrieves the categories from a Firestore collection and sends them as a response.
 app.get("/categories", async (req, res, next) => {
   try {
-    const categoriesRef = dbFirestore.collection("Categories"); // Get a reference to the "Categories" collection in Firestore.
-    const snapshot = await categoriesRef.get(); // Retrieve a snapshot of the "Categories" collection.
-    const categories = snapshot.docs.map((doc) => ({ ...doc.data() })); // Map the snapshot to an array of category objects.
-    const keys = Object.values(categories[0]); // Extract the keys from the first category object.
-    res.send(keys); // Send the keys as the response.
+    const idsCollectionRef = dbFirestore.collection("IDs");
+    const categoriesCollectionRef = dbFirestore.collection("Categories");
+    const allDocsRef = categoriesCollectionRef.doc("AllDocs");
+
+    // Clear the existing document
+    await allDocsRef.set({});
+
+    const snapshot = await idsCollectionRef.get();
+    const documentNames = snapshot.docs.map((doc) => doc.id);
+
+    const categoriesData = {};
+    documentNames.forEach((name, index) => {
+      const key = `ID${index}`;
+      categoriesData[key] = name;
+    });
+
+    await allDocsRef.set(categoriesData);
+
+    res.send(categoriesData);
   } catch (error) {
     // Pass any errors to the next middleware function.
     next(error);
