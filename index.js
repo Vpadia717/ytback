@@ -232,7 +232,7 @@ app.get("/search", async (req, res, next) => {
     // Create an array of promises, each of which retrieves videos and channel details that match the query
     // from one of the channels whose IDs are stored in Firestore.
     const promises = channelIds.map(async (channelId) => {
-      const videoUrl = `${BASEAPI_URL}/search?part=snippet&channelId=${channelId}&q=${searchQuery}&type=video&key=${APIKEY}&maxResults=10`;
+      const videoUrl = `${BASEAPI_URL}/search?part=snippet&channelId=${channelId}&q=${searchQuery}&type=video&key=${APIKEY}`;
       const channelUrl = `${BASEAPI_URL}/channels?part=snippet,statistics&id=${channelId}&key=${APIKEY}`;
 
       const [videoResponse, channelResponse] = await Promise.all([
